@@ -20,5 +20,5 @@ My First Repository
     *Director: Makoto Shinkai*
 7. **Grave of the Fireflies**
    *Director: Isao Takahata*
-9. **Spirited Away**
+8. **Spirited Away**
    *Director: Hayao Miyazaki*
